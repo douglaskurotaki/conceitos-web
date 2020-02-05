@@ -1,0 +1,17 @@
+# R025 - Computação em Núvem
+- Grande partes são servidores Linux
+- Inspirada em serviços utilitários na vida (Conta telefone, água) - Paga de acordo com o uso
+- Não paga por energia, equipamentos de rede, infraestrutura
+- Máquina virtual com provisionamento de recursos alocando suas próprias características
+- Escalonamento automatico - Com a demanda do sistema a infra vai aumentando suas características
+  - Se a determinado minuto o processamento ficarem acima da média, a infra vai aumentar ou escalonar
+- Infraestrutura como serviço(IaaS)
+- Plataforma como Serviço (PaaS)
+  - Se preocupa mais com o código
+  - Custo maior
+  - Velocidade maior
+- Software como Serviço (SaaS)
+  - Saleforce
+  - Abstração a nível de usuário
+- Função como Serviço (Serveless)
+  - Deploy da função
